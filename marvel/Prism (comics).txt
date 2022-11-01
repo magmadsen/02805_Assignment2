@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Prism_(comics)", "to": "Prism (comics)"}], "pages": {"67867104": {"pageid": 67867104, "ns": 0, "title": "Prism (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Prism (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

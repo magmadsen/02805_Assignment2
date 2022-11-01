@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "l1=Master_Man", "to": "L1=Master Man"}], "pages": {"-1": {"ns": 0, "title": "L1=Master Man", "missing": ""}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Robin_(DC_Comics)", "to": "Robin (DC Comics)"}], "pages": {"65194021": {"pageid": 65194021, "ns": 0, "title": "Robin (DC Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[Robin (character)]]"}}}]}}}}

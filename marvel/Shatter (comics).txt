@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Shatter_(comics)", "to": "Shatter (comics)"}], "pages": {"5344302": {"pageid": 5344302, "ns": 0, "title": "Shatter (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Death_Web_(comics)", "to": "Death Web (comics)"}], "pages": {"17235044": {"pageid": 17235044, "ns": 0, "title": "Death Web (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[List of Marvel Comics teams and organizations#D]] {{R to section}}"}}}]}}}}

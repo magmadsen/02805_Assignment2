@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Aries_(comics)", "to": "Aries (comics)"}], "pages": {"70470746": {"pageid": 70470746, "ns": 0, "title": "Aries (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Aries (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

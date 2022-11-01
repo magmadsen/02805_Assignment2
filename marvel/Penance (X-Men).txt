@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Penance_(X-Men)", "to": "Penance (X-Men)"}], "pages": {"1967578": {"pageid": 1967578, "ns": 0, "title": "Penance (X-Men)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[M (Marvel Comics)#Penance]]"}}}]}}}}

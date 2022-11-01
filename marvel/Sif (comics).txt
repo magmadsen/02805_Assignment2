@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Sif_(comics)", "to": "Sif (comics)"}], "pages": {"66931742": {"pageid": 66931742, "ns": 0, "title": "Sif (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sif (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

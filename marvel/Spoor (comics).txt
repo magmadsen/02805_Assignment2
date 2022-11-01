@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Spoor_(comics)", "to": "Spoor (comics)"}], "pages": {"4297309": {"pageid": 4297309, "ns": 0, "title": "Spoor (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Acolytes members]]"}}}]}}}}

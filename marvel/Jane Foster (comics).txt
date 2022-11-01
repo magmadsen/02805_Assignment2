@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Jane_Foster_(comics)", "to": "Jane Foster (comics)"}], "pages": {"64114319": {"pageid": 64114319, "ns": 0, "title": "Jane Foster (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jane Foster]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

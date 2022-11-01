@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Scorpia_(comics)", "to": "Scorpia (comics)"}], "pages": {"5752013": {"pageid": 5752013, "ns": 0, "title": "Scorpia (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Scorpion (Marvel Comics)#Elaine Coll]]\n\n{{r from merge}}"}}}]}}}}

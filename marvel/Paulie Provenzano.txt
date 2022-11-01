@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Paulie_Provenzano", "to": "Paulie Provenzano"}], "pages": {"30861059": {"pageid": 30861059, "ns": 0, "title": "Paulie Provenzano", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: O]]"}}}]}}}}

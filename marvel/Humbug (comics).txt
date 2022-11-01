@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Humbug_(comics)", "to": "Humbug (comics)"}], "pages": {"70172041": {"pageid": 70172041, "ns": 0, "title": "Humbug (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Humbug (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}
